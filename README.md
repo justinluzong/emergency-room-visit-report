@@ -5,7 +5,7 @@ This dashboard provides an overview of wait times and demographics for patients 
 
 [Emergency Room Visit Report on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/EmergencyRoomVisitReport_17443380889530/EmergencyRoomVisitReport)
 
-The data can be filtered by selecting one or more Months in the filter dropdown.
+The data can be filtered by selecting one or more Months in the Month Filter dropdown.
 
 ## Dataset
 The report uses Mark Bradbourne's [Real World Fake Data "Hospital ER" dataset](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
