@@ -26,6 +26,6 @@ The report uses Mark Bradbourne's [Real World Fake Data "Hospital ER" dataset](h
 5. Shortest average wait time: October 2020 (34.1 mins);  
    Longest: February 2020 (36.7 mins)
 6. Longest wait times: Mon 11 PM (40.69 min), Wed 3 AM (39.74 min), Fri 10 PM (39.34 min);  
-   Shortest: Wed 1 AM (29.65 min), Sat 9 PM (30.09 min), Sat 4 PM (30.52 min)
+   Shortest: Wed 1 AM (29.65 min), Sat 9 PM (30.09 min), Sat 4 PM (30.52 min)  
    Overall Range: 11.04 min
 8. Top referrals: General Practice (1840 patients), Orthopedics (995 patients), Physiotherapy (276 patients)
