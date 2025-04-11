@@ -18,10 +18,14 @@ The report uses Mark Bradbourne's [Real World Fake Data "Hospital ER" dataset](h
 7. What are the top 3 department referrals?
 
 ## Answers
-1. 5831 total patients
-2. Highest: March 2020 (5.33 out of 10); Lowest: April 2020 (4.63 out of 10)
-3. 0 - 18 Years, across every month
-4. White (2571 patients)
-5. Shortest: October 2020 (34.1 mins); Longest: February 2020 (36.7 mins)
-6. Longest: Mon 11 PM (40.69 min), Wed 3 AM (39.74 min), Fri 10 PM (39.34 min); Shortest: Wed 1 AM (29.65 min), Sat 9 PM (30.09 min), Sat 4 PM (30.52 min)
-7. General Practice (1840 patients), Orthopedics (995 patients), Physiotherapy (276 patients)
+1. Total patients from Nov 2019 to Oct 2020: 5831 patients
+2. Highest average patient satisfaction score: March 2020 (5.33 out of 10);  
+   Lowest: April 2020 (4.63 out of 10)
+3. Largest age group: 0 - 18 Years, across every month
+4. Largest race or ethnicity: White (2571 patients)
+5. Shortest average wait time: October 2020 (34.1 mins);  
+   Longest: February 2020 (36.7 mins)
+6. Longest wait times: Mon 11 PM (40.69 min), Wed 3 AM (39.74 min), Fri 10 PM (39.34 min);  
+   Shortest: Wed 1 AM (29.65 min), Sat 9 PM (30.09 min), Sat 4 PM (30.52 min)
+   Overall Range: 11.04 min
+8. Top referrals: General Practice (1840 patients), Orthopedics (995 patients), Physiotherapy (276 patients)
