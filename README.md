@@ -9,7 +9,7 @@ This dashboard provides an overview of wait times and demographics for patients 
 The report uses Mark Bradbourne's [Real World Fake Data "Hospital ER" dataset](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
 
 ## Questions
-1. How many patients were seen in the past 12 months (Nov 2019 to Oct 2020)?
+1. How many patients were seen in the last 12 months (of this dataset: Nov 2019 to Oct 2020)?
 2. What month had the highest average patient satisfaction score? The lowest average patient satisfaction score?
 3. What age group has the highest number of patients?
 4. What race or ethnicity has the highest number of patients?
