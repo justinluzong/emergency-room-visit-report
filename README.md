@@ -23,7 +23,7 @@ This project uses Mark Bradbourne's [Real World Fake Data "Hospital ER" dataset]
 1. Total patients from Nov 2019 to Oct 2020: 5831 patients
 2. Highest average patient satisfaction score: March 2020 (5.33 out of 10);  
    Lowest: April 2020 (4.63 out of 10)
-3. Largest age group: 0 - 18 Years, across every month
+3. Largest age group: 19 - 65 Years, across every month
 4. Largest race or ethnicity: White (2571 patients)
 5. Shortest average wait time: October 2020 (34.1 mins);  
    Longest: February 2020 (36.7 mins)
