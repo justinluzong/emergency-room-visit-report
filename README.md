@@ -3,7 +3,7 @@
 [Emergency Room Visit Report on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/EmergencyRoomVisitReport_17443380889530/EmergencyRoomVisitReport)
 
 ## Overview
-This dashboard provides an overview of wait times and demographics for patients to a hospital emergency room.
+This dashboard provides an overview of wait times and demographics for patients to a hospital emergency room.  
 The report can be filtered by selecting one or more Months in the Month Filter dropdown.
 
 ## Dataset
