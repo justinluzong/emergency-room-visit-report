@@ -4,6 +4,7 @@
 
 ## Overview
 This report provides an overview of patient visits to a hospital emergency room, with the goal of improving the overall ER patient experience through optimizing wait times and catering to the needs of notable demographics.  
+
 This report is comprised of the following dashboards:
 - Emergency Room Experience Report - focuses on patient satisfaction ratings and wait times
 - Emergency Room Demographics Report - focuses on patient count, gender, age group, race/ethnicity, and department referrals
