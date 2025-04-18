@@ -3,7 +3,7 @@
 [Emergency Room Visit Report on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/EmergencyRoomVisitReport_17443380889530/ERExperience)
 
 ## Overview
-This report provides an overview of patient visits to a hospital emergency room. The goal of this report is to improve the overall ER patient experience at this hospital by optimizing wait times and catering to the needs of notable demographics.  
+This report provides an overview of patient visits to a hospital emergency room, with the goal of improving the overall ER patient experience through optimizing wait times and catering to the needs of notable demographics.  
 This report is comprised of the following dashboards:
 - Emergency Room Experience Report - focuses on patient satisfaction ratings and wait times
 - Emergency Room Demographics Report - focuses on patient count, gender, age group, race/ethnicity, and department referrals
