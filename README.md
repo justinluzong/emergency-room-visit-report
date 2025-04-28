@@ -6,7 +6,7 @@ Maplewood Community Hospital, established in 1978, is regional medical facility 
 While founded on and driven by community-first values, in recent years sudden regional population growth has led Maplewood Community Hospital to struggle in keeping up with rising patient demands. This project analyzes the hospital's Emergency Room patient data, with the goal of improving the overall ER patient experience.
 
 Insights and recommendations are provided for the following key areas:
-- **Patient Demographics:** Identification of notable groups among genders, age groups, races/ethnicities, and department referrals
+- **Patient Demographics:** Identification of notable groups among genders, age groups, races, and department referrals
 - **Patient Satisfaction Scores:** Evaluation of score patterns, both overall and among various patient demographics
 - **Patient Wait Times:** Assessment of wait times and their potential impact on satisfaction scores
 
@@ -29,10 +29,8 @@ The largest patient demographics are 0-18 Years (22.9% of all patients) and 19-3
 - The overall average score is fairly low at 4.99 out of 10.
 - The highest monthly average score was in March 2020 (5.33). The lowest monthly average was in April 2020 (4.63). 
 - The largest increase in average satisfaction score is from February to March 2020 at 0.61 points. This is immediately followed by the largest drop in satisfaction score at 0.7 points, between March and April 2020.
-- The dataset ends on an upward trend, with October 2020 having an average score of 5.31, which is up 0.4 points from the previous month.
-to do: add more detailed graph, also remove vertical 0 line on score distribution
-<img src=https://github.com/user-attachments/assets/193ac502-8a68-4c9a-b7c3-3663496605e2 height="100">
-
+- The dataset ends on an upward trend, with October 2020 having an average score of 5.31, which is up 0.4 points from the previous month and close to the all time high of 5.33.
+<img src=https://github.com/user-attachments/assets/e5516f86-d1f2-43e0-adfd-884da48cc888 height="350">
 
 ### Patient Wait Times
 - The days and times with the longest average wait times (39 min or more) are Mon 11 PM (40.69), Wed 3 AM (39.74), Fri 10 PM (39.34), Sun 7 AM (39.18), and Wed 8 AM (39.02).
@@ -41,8 +39,7 @@ to do: add more detailed graph, also remove vertical 0 line on score distributio
 - The overall average wait time is 35.3 minutes. Monthly average wait times have been on a steady decline since May 2020, with a total decrease of 1.7 minutes through October 2020.
 - The longest average wait time over a specific month was in February 2020 (36.7 mins). The shortest wait time was in October 2020 (34.1 mins).
 - Average satisfaction scores more often increase when wait times increase, instead of when wait times decrease. This is true for 12 of 18 months in the dataset, though the variation in average wait time between months is very small, with the highest change being a 2.1 minute decrease between August and September 2019.
-to do: add more detailed graph
-<img src=https://github.com/user-attachments/assets/215f2ffd-3e54-4bf2-a484-2e1cb845505b height="100">
+<img src=https://github.com/user-attachments/assets/354df449-98b1-4ff6-b72a-8dd2e30afb2f height="350">
 
 
 ### Patient Gender
@@ -54,20 +51,20 @@ to do: add more detailed graph
 - The 66+ Year age group has the lowest overall average satisfaction score at 4.72, with a large amount of 1 scores. Average wait times for this group have been trending upward since July 2020 with a total increase of 4.5 minutes.
 - The 0-18 Year age group, the largest patient age group, has the second lowest overall average at 4.97.
 - The 36-50 Year age group has the highest overall average at 5.19 with a large number of 9 and 10 scores.
+<img src=https://github.com/user-attachments/assets/c468be87-3854-4089-8230-c3f9c453b6da height="200">
 
-### Patient Race/Ethnicity
-- The largest race/ethnicity is White at 2571 patients (27.9%). The second largest is African American at 1951 patients (21.1%).
+### Patient Race
+- The largest race group is White at 2571 patients (27.9%). The second largest is African American at 1951 patients (21.1%).
 - The Two or More Races patient group had the lowest average score at 4.83, with a large amount of 0 and 1 scores.
-- White patients, the largest patient race/ethnicity group, have the second lowest average at 4.94 with a notable amount of 4 and 7 scores. Between September and October 2020 there was a sharp increase of 2.02 points. This is an all time high and corresponds with the average wait time among this demographic decreasing by 4 minutes to an all time low of 31.9 minutes.
+- White patients, the largest patient racial group, have the second lowest average at 4.94 with a notable amount of 4 and 7 scores. Between September and October 2020 there was a sharp increase of 2.02 points. This is an all time high and corresponds with the average wait time among this demographic decreasing by 4 minutes to an all time low of 31.9 minutes.
 - Pacific Islanders had the highest average score at 5.33, with a majority of scores ranging from 6 to 9.
-<img src=https://github.com/user-attachments/assets/a079700a-57d3-4620-8165-c1e769a2e6d9 height="250">
-
 
 ### Department Referrals
 - The largest amount of department referrals go to General Practice at 1840 patients (20.0%). The second largest amount are for Orthopedics at 995 patients (10.8%).
 - Patients referred to the Renal department had the lowest average satisfaction score at 4.57. The Renal department accounts for the smallest amount of referrals (86 total).
 - Patients referred to the Gastroenterology department had the highest average score at 5.8. This department accounts for the second smallest amount of referrals (178 total).
-to do: add graph, remove vertical lines
+<img src=https://github.com/user-attachments/assets/1dfbce1c-41c5-4e90-b3d8-0d9fa4c92ac1 height="150">
+
 
 ## Recommendations
 ### Emphasizing Satisfaction Scores
