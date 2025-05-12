@@ -1,4 +1,5 @@
 # Emergency Room Visit Report
+[Visualization on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/EmergencyRoomVisitReport_17443380889530/ERExperience)
 
 ## Project Overview
 Maplewood Community Hospital, established in 1978, is regional medical facility serving the town of Maplewood and its surrounding rural communities.
