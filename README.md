@@ -1,4 +1,5 @@
 # Emergency Room Visit Report
+[Visualization on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/EmergencyRoomVisitReport_17443380889530/ERExperience)
 
 ## Project Overview
 Maplewood Community Hospital, established in 1978, is regional medical facility serving the town of Maplewood and its surrounding rural communities.
@@ -18,7 +19,7 @@ Maplewood Community Hospital's Emergency Room patient data consists of one table
 
 
 ## Executive Summary
-Maplewood Community Hospital's analysis of 9k emergency room patient records between 2019 and 2020 shows an average patient satisfaction score of 4.99 out of 10. It should be noted that only 27% of patients left a satisfaction score. Greater effort should be placed toward ensuring more patients are leaving scores and other meaningful feedback. Emergency room patients are waiting an average of 35.3 minutes before being seen. The average wait time has been decreasing over the past several months, with an all time low of 34.1 minutes most recently in October 2020. 
+Maplewood Community Hospital's analysis of 9k emergency room patient records between 2019 and 2020 shows an average patient satisfaction score of 4.99 out of 10. It should be noted that only 27% of patients left a satisfaction score. Post-visit reminders and other communications should be used to ensure more patients are leaving scores and other meaningful feedback. Emergency room patients are waiting an average of 35.3 minutes before being seen. The average wait time has been decreasing over the past several months, with an all time low of 34.1 minutes most recently in October 2020.
 
 The largest patient demographics are 0-18 Years (22.9% of all patients) and 19-35 Years (21.5%) among age groups and White (27.9%) and African American (21.1%) among racial groups. Across patient demographics the following groups have lower than average satisfaction scores: gender nonconforming patients (3.2 out of 10), patients 66 years old or older (4.7), patients with two or more races (4.8), and patients referred to the Renal department (4.6). Overall wait time and satisfaction concerns can be addressed through additional staffing, reallocating staff to shifts with higher patient demand, and additional training to better accommodate unsatisfied demographics but also the greater patient population overall.
 
@@ -38,7 +39,7 @@ The largest patient demographics are 0-18 Years (22.9% of all patients) and 19-3
 - Average satisfaction scores more often increase when wait times increase, instead of when wait times decrease. This is true for 12 of 18 months in the dataset, though the variation in average wait times between months is very small, with the largest change being a 2.1 minute decrease between August and September 2019.
 - The days and times with the longest average wait times (39 min or more) are Mon 11 PM (40.69), Wed 3 AM (39.74), Fri 10 PM (39.34), Sun 7 AM (39.18), and Wed 8 AM (39.02).
 - The days and times with the shortest wait times (under 31 min) are Wed 1 AM (29.65), Sat 9 PM (30.09), and Sat 4 PM (30.52).
-- Wednesday morning has two time slots with the longest average wait times and the time slot with the overall shortest average wait time. Saturday evening has two time slots with the shortest average wait times.
+- Wednesday morning has two time slots (hours) with the longest average wait times and the time slot with the overall shortest average wait time. Saturday evening has two time slots with the shortest average wait times.
 <img src=https://github.com/user-attachments/assets/354df449-98b1-4ff6-b72a-8dd2e30afb2f height="350">
 
 ### Patient Gender
