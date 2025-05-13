@@ -39,7 +39,7 @@ The largest patient demographics are 0-18 Years (22.9% of all patients) and 19-3
 - Average satisfaction scores more often increase when wait times increase, instead of when wait times decrease. This is true for 12 of 18 months in the dataset, though the variation in average wait times between months is very small, with the largest change being a 2.1 minute decrease between August and September 2019.
 - The days and times with the longest average wait times (39 min or more) are Mon 11 PM (40.69), Wed 3 AM (39.74), Fri 10 PM (39.34), Sun 7 AM (39.18), and Wed 8 AM (39.02).
 - The days and times with the shortest wait times (under 31 min) are Wed 1 AM (29.65), Sat 9 PM (30.09), and Sat 4 PM (30.52).
-- Wednesday morning has two time slots with the longest average wait times and the time slot with the overall shortest average wait time. Saturday evening has two time slots with the shortest average wait times.
+- Wednesday morning has two time slots (hours) with the longest average wait times and the time slot with the overall shortest average wait time. Saturday evening has two time slots with the shortest average wait times.
 <img src=https://github.com/user-attachments/assets/354df449-98b1-4ff6-b72a-8dd2e30afb2f height="350">
 
 ### Patient Gender
